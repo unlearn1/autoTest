@@ -1,1 +1,5 @@
+master:
  i am master
+mergedemo:
+i am mergedemo
+
